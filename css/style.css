@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.container {
+    background-color: blue;
+    height: 10em;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
